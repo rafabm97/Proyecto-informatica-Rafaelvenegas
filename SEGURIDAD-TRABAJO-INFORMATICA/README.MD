@@ -28,7 +28,7 @@ Trabajar muchas horas frente al ordenador puede provocar:
 - Lesiones en cuello y muñecas  
 - Fatiga visual  
 
-![Postura incorrecta](https://www.prevencionintegral.com/sites/default/files/noticia/41677/field_image/ergonomia-oficina.jpg)
+![Postura incorrecta](https://www.shutterstock.com/image-vector/correct-good-position-vs-bad-260nw-2458785273.jpg)
 
 Estos problemas suelen aparecer por una mala ergonomía del puesto de trabajo.
 
@@ -42,7 +42,7 @@ El uso continuo de pantallas puede causar:
 - Visión borrosa  
 - Dolor de cabeza  
 
-![Fatiga visual](https://www.clinicabaviera.com/wp-content/uploads/fatiga-visual.jpg)
+![Fatiga visual](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvf2rg6gRM2uw32WYwagoRPf18OJKmdHwuw&s)
 
 Esto ocurre sobre todo cuando no descansamos la vista.
 
@@ -56,7 +56,7 @@ No solo hay riesgos físicos, también mentales:
 - Ansiedad  
 - Cansancio mental  
 
-![Estrés laboral](https://concepto.de/wp-content/uploads/2018/03/estres-e1520789028340.jpg)
+![Estrés laboral](https://www.cursosfemxa.es/images/chemafemxa/estres_laboral_infografia.webp)
 
 Estos problemas suelen aparecer por exceso de trabajo o presión.
 
@@ -71,7 +71,7 @@ Para evitar estos problemas, se pueden aplicar medidas sencillas:
 - Mantener la espalda recta  
 - Colocar la pantalla a la altura de los ojos  
 
-![Ergonomía correcta](https://www.iberdrola.com/documents/20125/40226/ergonomia-puesto-trabajo.jpg)
+![Ergonomía correcta](https://prevencionar.com/wp-content/uploads/2024/06/infografia-postura-correcta-en-el-trabajo.jpg)
 
 ---
 
@@ -108,16 +108,6 @@ Por eso es importante:
 ---
 
 ## 👨‍💻 Autores
-- Tu Nombre  
-- Nombre de tu compañero  
+- Rafael Venegas Moreno
 
 ---
-
-## 🔽 Extra (Markdown avanzado)
-
-<details>
-<summary>Consejo importante</summary>
-
-💻 Una mala postura mantenida durante meses puede provocar lesiones crónicas.
-
-</details>
